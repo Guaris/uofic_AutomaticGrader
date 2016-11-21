@@ -1,0 +1,3 @@
+12345.txt 1 2 2 1 0 0 0 7 low
+54321.txt 5 5 5 5 5 5 5 60 high
+xyz12.txt 3 2 3 3 3 2 3 32 medium

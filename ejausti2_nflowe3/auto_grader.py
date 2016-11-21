@@ -211,7 +211,7 @@ def text_coherence():
 ''' Main code block. '''
 ## Get list of tokenized test files.
 ## Expected path: '../input/test/tokenized'
-err = os.chdir('input/test/tokenized')
+err = os.chdir('/Users/angel/Documents/programming/sumpy/uofic_AutomaticGrader/netid1_netid2/input/test/tokenized')
 path = os.getcwd()
 testfileset = os.listdir(path)
 results = []
